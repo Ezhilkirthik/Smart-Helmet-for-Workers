@@ -161,10 +161,6 @@ This smart helmet is ideal for workers in hazardous environments such as:
 
 The Smart Helmet for Industrial Safety is a significant advancement in industrial safety. It transitions from reactive to proactive safety management by leveraging real-time sensor data and wireless communication. By improving early hazard detection and enabling immediate intervention, this system has the potential to save lives and reduce industrial accidents.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 For more information, please contact ezhilkirthikm@gmail.com.
